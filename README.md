@@ -1,37 +1,18 @@
 ## Experiment-4.Logistic Regression, ROC and Evaluation Metrics
 
-
-
-
 ## AIM:
 
-
-
-
 Train logistic regression; compute accuracy, precision, recall, F1, AUC and plot ROC.
+
 ## ALGORITHM :
-
-
 
 Logistic regression (MLE). ROC uses predicted probabilities.
 
-
-
-
 ## THEORY:
-
-
-
 
 Logistic function models log-odds; evaluation depends on use-case (class imbalance etc.).
 
-
-
-
 ## PROGRAM:
-
-
-
 
 ```
 
@@ -56,16 +37,11 @@ plt.ylabel('TPR'); plt.title('ROC Curve'); plt.show()
 
 ```
 
-
-
 ## OUTPUT:
 
 <img width="567" height="455" alt="download (1)" src="https://github.com/user-attachments/assets/afe12709-f84a-4238-9f4d-34217de3aa8a" />
 
-
-
 ```
-
 
 Accuracy: 1.0
 Precision: 1.0
@@ -73,15 +49,8 @@ Recall: 1.0
 F1: 1.0
 AUC: 1.0
 
-
 ```
 
-
-
-
-
 ## RESULT:
-
-
 
 Students learn evaluation metrics and how probability thresholds trade off precision/recall.
